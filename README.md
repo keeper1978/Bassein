@@ -27,3 +27,4 @@ DS18b20   http://hz.ru.aliexpress.com/item/DS18B20-Stainless-steel-package-1-met
 
 реле    http://hz.ru.aliexpress.com/item/1-Channel-5V-Relay-Module-Low-level-for-SCM-Household-Appliance-Control-FREE-SHIPPING-For-Arduino/1617716706.html?spm=2114.13010608.0.133.ofphsL
 
+W5100     http://hz.aliexpress.com/snapshot/3006648155.html?orderId=30150190959308
