@@ -10,6 +10,11 @@ Bassein, Arduino, Flprog
 Файл проекта автоматизации обслуживания бассейна с поддержкой modbus. и RemoteXY
 написано в программе Flprog    
 адрес Flprog http://flprog.ru 
+адрес remoteXY  http://remotexy.com/ru
+
+Файлы 
+Bassein_final_Modbass_tcp_v_1.flp (проэкт работающий с modbus tcp)
+Bassein_final_remoteXY_v1.3.flp   (проэкт работающий c remoteXY)
 
 Функции контроллера 
 1) управление фильтрационным насосом по времени
