@@ -46,3 +46,5 @@ DS18b20   http://hz.ru.aliexpress.com/item/DS18B20-Stainless-steel-package-1-met
 реле    http://hz.ru.aliexpress.com/item/1-Channel-5V-Relay-Module-Low-level-for-SCM-Household-Appliance-Control-FREE-SHIPPING-For-Arduino/1617716706.html?spm=2114.13010608.0.133.ofphsL
 
 W5100     http://hz.aliexpress.com/snapshot/3006648155.html?orderId=30150190959308
+
+часы DS1307  http://hz.ru.aliexpress.com/item/5PCS-DS3231-AT24C32-IIC-RTC-Clock-Timer-Memory-Module-For-Arduino-Replace-DS1307/1864985742.html?spm=2114.03020208.3.148.0CKS7V&ws_ab_test=searchweb201556_10,searchweb201602_4_10048_10047_10017_10046_10045_406,searchweb201603_11&btsid=fffffde1-a557-438d-aaef-e14610dc2057
