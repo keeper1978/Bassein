@@ -67,5 +67,6 @@ W5100     http://hz.aliexpress.com/snapshot/3006648155.html?orderId=301501909593
 часы DS1307  http://hz.ru.aliexpress.com/item/5PCS-DS3231-AT24C32-IIC-RTC-Clock-Timer-Memory-Module-For-Arduino-Replace-DS1307/1864985742.html?spm=2114.03020208.3.148.0CKS7V&ws_ab_test=searchweb201556_10,searchweb201602_4_10048_10047_10017_10046_10045_406,searchweb201603_11&btsid=fffffde1-a557-438d-aaef-e14610dc2057
 
 ПРОШЛЫЕ ВЕРСИИ
-Bassein_final_Modbass_tcp_v_1.1
+
+Bassein_final_Modbass_tcp_v_1
 
