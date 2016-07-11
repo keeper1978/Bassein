@@ -17,9 +17,26 @@ Bassein, Arduino, Flprog
 
 Файлы 
 
-Bassein_final_Modbass_tcp_v_1.flp (проэкт работающий с modbus tcp)
+В ПЛАНАХ
 
-Bassein_final_remoteXY_v1.3.flp   (проэкт работающий c remoteXY)
+Bassein_final_Modbass_tcp
+
+добавить управления светом
+добавить дозировка PH 
+
+
+Bassein_final_Modbass_tcp (проэкт работающий с modbus tcp)
+
+ИЗМЕНЕНИЯ
+
+ Bassein_final_Modbass_tcp_v_1.1
+ 
+ добавлены максимальная и менимальная температуры за сутки
+ 
+ 
+
+
+Bassein_final_remoteXY_v1.3  (проэкт работающий c remoteXY)
 
 Функции контроллера 
 
@@ -48,3 +65,7 @@ DS18b20   http://hz.ru.aliexpress.com/item/DS18B20-Stainless-steel-package-1-met
 W5100     http://hz.aliexpress.com/snapshot/3006648155.html?orderId=30150190959308
 
 часы DS1307  http://hz.ru.aliexpress.com/item/5PCS-DS3231-AT24C32-IIC-RTC-Clock-Timer-Memory-Module-For-Arduino-Replace-DS1307/1864985742.html?spm=2114.03020208.3.148.0CKS7V&ws_ab_test=searchweb201556_10,searchweb201602_4_10048_10047_10017_10046_10045_406,searchweb201603_11&btsid=fffffde1-a557-438d-aaef-e14610dc2057
+
+ПРОШЛЫЕ ВЕРСИИ
+Bassein_final_Modbass_tcp_v_1.1
+
